@@ -53,12 +53,12 @@ Additional details:
     
     **In general the code is really intuitve and you can identify all elements and modify what you desire or even add aditional carrier following the same structure.**
     
-3. Once you are done with your modifications, just simply run the following comand in the console:
+3. Once you are done with your modifications, just simply run the following comand in the console to compile your code to a executable file:
 
     ```
     pyinstaller --clean --onefile --windowed main.py
     
-    *Make sure you direct to the folder where you have the "main.py" folder*
+    *Make sure you direct to the folder where you have the "main.py" file*
     
     ```
 
