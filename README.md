@@ -51,7 +51,7 @@ Additional details:
     
     ```
     
-    **In general the code is really intuitve and you can identify the structure and modify what you desire or even add aditional carrier following the same structure.**
+    **In general the code is really intuitve and you can identify all elements and modify what you desire or even add aditional carrier following the same structure.**
     
 3. Once you are done with your modifications, just simply run the following comand in the console:
 
@@ -64,9 +64,11 @@ Additional details:
 
 ## OverView
 
-![image](https://user-images.githubusercontent.com/84207679/120042811-6bf12280-bfd0-11eb-9f6f-5e05b3484d59.png)
 
-![image](https://user-images.githubusercontent.com/84207679/120042831-74495d80-bfd0-11eb-8dbd-f23a9e375538.png)
+![image](https://user-images.githubusercontent.com/84207679/120043175-1a956300-bfd1-11eb-8fcd-bba3f0890753.png)
+
+![image](https://user-images.githubusercontent.com/84207679/120043185-1f5a1700-bfd1-11eb-816e-c3477fb6cf8f.png)
+
 
 
 
