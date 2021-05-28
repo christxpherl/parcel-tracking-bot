@@ -70,6 +70,15 @@ Additional details:
 
 ![image](https://user-images.githubusercontent.com/84207679/120043185-1f5a1700-bfd1-11eb-816e-c3477fb6cf8f.png)
 
+![image](https://user-images.githubusercontent.com/84207679/120044398-647f4880-bfd3-11eb-912a-02c4d7bd9cf2.png)
+
+![image](https://user-images.githubusercontent.com/84207679/120044405-69dc9300-bfd3-11eb-87b4-7cea7b5a5fef.png)
+
+![image](https://user-images.githubusercontent.com/84207679/120044415-6fd27400-bfd3-11eb-9c38-ee10138b240d.png)
+
+
+
+
 
 
 
